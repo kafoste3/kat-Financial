@@ -1,0 +1,9 @@
+D:\Revature\FosterFinancial\FosterFinancial.Library\bin\Debug\netstandard2.0\FosterFinancial.Library.deps.json
+D:\Revature\FosterFinancial\FosterFinancial.Library\bin\Debug\netstandard2.0\FosterFinancial.Library.dll
+D:\Revature\FosterFinancial\FosterFinancial.Library\bin\Debug\netstandard2.0\FosterFinancial.Library.pdb
+D:\Revature\FosterFinancial\FosterFinancial.Library\obj\Debug\netstandard2.0\FosterFinancial.Library.csprojAssemblyReference.cache
+D:\Revature\FosterFinancial\FosterFinancial.Library\obj\Debug\netstandard2.0\FosterFinancial.Library.csproj.CoreCompileInputs.cache
+D:\Revature\FosterFinancial\FosterFinancial.Library\obj\Debug\netstandard2.0\FosterFinancial.Library.AssemblyInfoInputs.cache
+D:\Revature\FosterFinancial\FosterFinancial.Library\obj\Debug\netstandard2.0\FosterFinancial.Library.AssemblyInfo.cs
+D:\Revature\FosterFinancial\FosterFinancial.Library\obj\Debug\netstandard2.0\FosterFinancial.Library.dll
+D:\Revature\FosterFinancial\FosterFinancial.Library\obj\Debug\netstandard2.0\FosterFinancial.Library.pdb

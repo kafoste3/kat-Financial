@@ -1,0 +1,14 @@
+D:\Revature\FosterFinancial\FosterFinancial.Client\bin\Debug\netcoreapp2.0\FosterFinancial.Client.deps.json
+D:\Revature\FosterFinancial\FosterFinancial.Client\bin\Debug\netcoreapp2.0\FosterFinancial.Client.runtimeconfig.json
+D:\Revature\FosterFinancial\FosterFinancial.Client\bin\Debug\netcoreapp2.0\FosterFinancial.Client.runtimeconfig.dev.json
+D:\Revature\FosterFinancial\FosterFinancial.Client\bin\Debug\netcoreapp2.0\FosterFinancial.Client.dll
+D:\Revature\FosterFinancial\FosterFinancial.Client\bin\Debug\netcoreapp2.0\FosterFinancial.Client.pdb
+D:\Revature\FosterFinancial\FosterFinancial.Client\bin\Debug\netcoreapp2.0\FosterFinancial.Library.dll
+D:\Revature\FosterFinancial\FosterFinancial.Client\bin\Debug\netcoreapp2.0\FosterFinancial.Library.pdb
+D:\Revature\FosterFinancial\FosterFinancial.Client\obj\Debug\netcoreapp2.0\FosterFinancial.Client.csprojAssemblyReference.cache
+D:\Revature\FosterFinancial\FosterFinancial.Client\obj\Debug\netcoreapp2.0\FosterFinancial.Client.csproj.CoreCompileInputs.cache
+D:\Revature\FosterFinancial\FosterFinancial.Client\obj\Debug\netcoreapp2.0\FosterFinancial.Client.AssemblyInfoInputs.cache
+D:\Revature\FosterFinancial\FosterFinancial.Client\obj\Debug\netcoreapp2.0\FosterFinancial.Client.AssemblyInfo.cs
+D:\Revature\FosterFinancial\FosterFinancial.Client\obj\Debug\netcoreapp2.0\FosterFinancial.Client.csproj.CopyComplete
+D:\Revature\FosterFinancial\FosterFinancial.Client\obj\Debug\netcoreapp2.0\FosterFinancial.Client.dll
+D:\Revature\FosterFinancial\FosterFinancial.Client\obj\Debug\netcoreapp2.0\FosterFinancial.Client.pdb
